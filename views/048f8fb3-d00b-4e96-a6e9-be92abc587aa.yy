@@ -1,0 +1,30 @@
+{
+    "id": "048f8fb3-d00b-4e96-a6e9-be92abc587aa",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "048f8fb3-d00b-4e96-a6e9-be92abc587aa",
+    "children": [
+        "b2aa2ec6-c2f8-4dfc-90f9-14ceb46e2588",
+        "b9ddf10c-7c91-4f70-9ab1-effdec8b7708",
+        "4a7d0cde-736a-462b-8417-2d4d4115232c",
+        "a17a7788-97e9-4b6c-ab00-a7b94fcf96d2",
+        "1dd0eed2-0ef6-4170-9133-8ce4adba310b",
+        "6d467399-ef4e-403a-8357-1a4f574ee137",
+        "535ad39f-0fb4-4ed7-961d-9c7ed7dea73b",
+        "30b5013a-6c1c-4d1d-b0bd-593f37ea086c",
+        "63db6fc7-71d6-4325-a6ae-ac79dc8df7a5",
+        "7ea89bb9-89ff-4c35-9fb9-50d15b7d9a78",
+        "2e0b6bda-da2a-4577-beea-e507076c8c56",
+        "05a06ecd-fbcc-4695-b853-ce21ddcd7320",
+        "d5475fe6-6459-4fb5-8848-6cbbb98fe0ba",
+        "019187bb-47c0-442d-8408-67d74cf49a1d",
+        "6523660b-cb11-427d-b2a3-fa5dcab80a6f",
+        "50bc0b34-d98e-41e1-a4f6-8b0a13f98089",
+        "7fb2350f-426e-42de-af76-a009482d3520",
+        "cbe795e1-8949-4b6b-9826-b8214a5eddb8"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Game Objs",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
